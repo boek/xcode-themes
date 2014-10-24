@@ -1,3 +1,16 @@
+<!-- Dracula Theme v0.7.0
+#
+# https://github.com/zenorocha/dracula-theme
+#
+# Copyright 2013, All rights reserved
+#
+# Code licensed under the MIT license
+# http://zenorocha.mit-license.org
+#
+# @author Jordan Brown <jordan@airkrft.com>
+# @author Zeno Rocha <hi@zenorocha.com>
+-->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -5,25 +18,25 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Menlo-Regular - 10.0</string>
+	<string>Monaco - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Menlo-Regular - 10.0</string>
+	<string>Monaco - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.313725 0.980392 0.482353 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Menlo-Regular - 10.0</string>
+	<string>Monaco - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Menlo-Regular - 10.0</string>
+	<string>Monaco - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Menlo-Regular - 10.0</string>
+	<string>Monaco - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.117949 0.120671 0.164031 1</string>
+	<string>0.156863 0.164706 0.211765 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -31,11 +44,11 @@
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.545098 0.913725 0.992157 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.117922 0.120925 0.160817 1</string>
+	<string>0.117658 0.122153 0.159778 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.286469 0.992761 0.46828 1</string>
+	<string>1 1 1 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.496379 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
@@ -92,51 +105,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>Monaco - 12.0</string>
 	</dict>
 </dict>
 </plist>
